@@ -1,0 +1,29 @@
+<div class="row">
+  <div class="col-md-8 ">
+    <div class="side-img">
+      <img src="https://www.at-sunrice.com/assets/Uploads/Chef-Clement-REAL.jpg" />
+    </div>
+  </div>
+  <div class="col-md-4">
+  <div>
+  <h5 class="comp-title">Reviews</h5>
+  <h2>The Food Network</h2>
+  <h4>"Best Restaurant in the Boston area!"</h4>
+  <p>
+    Yr slow-carb lumbersexual +1, bushwick intelligentsia kitsch kogi
+    kale chips stumptown hoodie. XOXO everyday carry authentic, woke
+    taxidermy marfa knausgaard migas pug venmo bitters kitsch DIY.
+  </p>
+  <div class="author">
+    <strong>Joe Bastiachi</strong> - <em>Winner of the chef masters</em>
+</div>
+    <div class="arrows">
+      <i class="fas fa-arrow-left"></i>
+      <i class="fas fa-arrow-right ready"></i>
+    </div>
+  </div>
+</div>
+
+
+
+onclick={actions.reviewRightClicked} class=

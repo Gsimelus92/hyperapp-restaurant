@@ -1,0 +1,20 @@
+@import "reset";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Rozha+One&display=swap');
+@import "variables";
+@import "grid";
+@import "Header";
+@import "TopImg";
+@import "OurStory";
+@import "SpecialMenu";
+@import "RandomQuote";
+@import "Reviews";
+@import "ContactUs";
+@import "Footer";
+@import "Global";
+
+
+
+body {
+  font-family: $textFont;
+
+}
